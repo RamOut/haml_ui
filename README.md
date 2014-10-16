@@ -1,6 +1,9 @@
-# HamlUi
+# Haml UI
 
-TODO: Write a gem description
+What if you want to move from Twitter Bootstrap to Zurb Foundation or Scemantic UI or Vice versa?
+What if you want to change your CSS classes?
+What if you want to use Twitter bootstrap as well as Zurb Foundation Mix?
+... Haml UI will be the Answer for all these questions
 
 ## Installation
 
